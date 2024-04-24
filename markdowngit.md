@@ -9,10 +9,10 @@ Some change
   * Test 1
   * Test 2
 
- Take a look at this c# method
- '''
+Take a look at this c# method
+'''csharp
 public class method ()
 {
 }
- '''
+'''
 ### Heading 3
