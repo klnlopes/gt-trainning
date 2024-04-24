@@ -10,9 +10,10 @@ Some change
   * Test 2
 
 Take a look at this c# method
-'''csharp
-public class method ()
-{
-}
 '''
+public class method1()
+(
+)
+'''
+
 ### Heading 3
