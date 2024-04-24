@@ -11,6 +11,8 @@ Some change
 
  Take a look at this c# method
  '''
-public class
+public class method ()
+{
+}
  '''
 ### Heading 3
