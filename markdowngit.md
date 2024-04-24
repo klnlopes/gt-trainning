@@ -11,10 +11,10 @@ Some change
 
 Take a look at this c# method
 
-'''csharp
+"""csharp
 public class mwrhod1 ()
 {
 }
-'''
+"""
 
 ### Heading 3
